@@ -1,0 +1,13 @@
+{
+  "include": [ "source" ],
+  "exclude": [ "node_modules" ],
+  "compilerOptions": {
+    "moduleResolution": "node16",
+    "module": "node16",
+    "target": "es2020",
+    "strict": true,
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "dist"
+  }
+}

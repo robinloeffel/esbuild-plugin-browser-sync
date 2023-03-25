@@ -1,0 +1,9 @@
+# folders
+node_modules
+dist
+
+# macos
+.DS_Store
+
+# test
+test/public/script.js
